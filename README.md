@@ -2,72 +2,49 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ratanakanb&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+
+# Ratanak ANB ✦ Software Engineer
+*Based in Cambodia. Building fast, scalable, and intuitive digital experiences.*
+
+[![Profile Views](https://komarev.com/ghpvc/?username=ratanakanb&label=Views&color=0e75b6&style=flat-square)](#)
+
+<br/>
+
+### 🛠️ Tech Stack
+
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+
+<br/>
+
+### 📊 Metrics
+
+<a href="https://github.com/ratanakanb">
+  <img src="https://github-readme-stats.vercel.app/api?username=ratanakanb&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
+</a>
+<a href="https://git.io/streak-stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RatanakANB&theme=tokyonight&hide_border=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+</a>
+
+<br/>
+
+### 🔗 Connect
+
+<a href="https://ratanakanb.dev"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://linkedin.com/in/ratanakanb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:ratanakanb@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
 </div>
-
-<h1 align="center">Hey there! 👋 I'm <span style="color:#0e75b6">Ratanak ANB</span></h1>
-
-<p align="center" style="font-size:1.1em;">
-  <b>🌏 Full Stack Developer from Cambodia</b><br>
-  <em>Crafting delightful web & mobile experiences with a love for clean code, performance, and design.</em><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=500&color=0e75b6&center=true&vCenter=true&width=380&lines=React+%7C+Next.js+%7C+Python+%7C+FastAPI+%7C+Mobile+%7C+Cloud" alt="Typing SVG"/>
-</p>
-
-<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad."</i> 😄</p>
-
----
-
-
-## 🚀 My Tech Toolbox
-
-<div align="center">
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" alt="Material UI" width="36" height="36"/>
-  <img src="https://vitejs.dev/logo.svg" alt="Vite" width="36" height="36"/>
-  <!-- Backend & API -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original-wordmark.svg" alt="Flask" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" width="36" height="36"/>
-  <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="36" height="36"/>
-  <!-- Data Science -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="36" height="36"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="36" height="36"/>
-  <!-- Databases -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="36" height="36"/>
-  <!-- DevOps & Tools -->
-  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-1.svg" alt="AWS" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="36" height="36"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="36" height="36"/>
-  <!-- Mobile -->
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="36" height="36"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="36" height="36"/>
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=RatanakANB&theme=merko&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
-## 🤝 Let's Connect!
-
-<p>
-  <b>📧 Email:</b> <a href="mailto:ratanakanb@gmail.com">ratanakanb@gmail.com</a><br>
-  <b>💼 LinkedIn:</b> <a href="https://linkedin.com/in/ratanakanb">linkedin.com/in/ratanakanb</a><br>
-  <b>🌐 Portfolio:</b> <a href="https://ratanakanb.dev">ratanakanb.dev</a>
-</p>
